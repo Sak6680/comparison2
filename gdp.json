@@ -1,4 +1,36 @@
-[ {
+[  {
+    "region": "europe",
+    "code": "de",
+    "country": "Germany",
+    "now": 4527.009,
+    "gdp-22": 4343.986,
+    "gdp-22-23": 183.023,
+    "now-pc": 53565.041,
+    "gdp-pc-22": 51608.737,
+    "gdp-pc-22-23": 1956.304,
+    "nowPPP": 5876.407,
+    "gdpPPP-22": 5735.592,
+    "gdpPPP-22-23": 140.815,
+    "nowPPP-pc": 69531.553,
+    "gdpPPP-pc-22": 68132.749,
+    "gdpPPP-pc-22-23": 1398.804
+}, {
+    "region": "asia",
+    "code": "in",
+    "country": "India",
+    "now": 3567.552,
+    "gdp-22": 3245.974,
+    "gdp-22-23": 321.578,
+    "now-pc": 2497.188,
+    "gdp-pc-22": 2296.813,
+    "gdp-pc-22-23": 200.375,
+    "nowPPP": 14619.782,
+    "gdpPPP-22": 13219.594,
+    "gdpPPP-22-23": 1400.188,
+    "nowPPP-pc": 10233.445,
+    "gdpPPP-pc-22": 9355.182,
+    "gdpPPP-pc-22-23": 878.263
+},{
     "region": "asia",
     "code": "th",
     "country": "Thailand",
@@ -46,22 +78,6 @@
     "nowPPP-pc": 51399.027,
     "gdpPPP-pc-22": 49738.694,
     "gdpPPP-pc-22-23": 1660.333
-},{
-    "region": "asia",
-    "code": "in",
-    "country": "India",
-    "now": 3567.552,
-    "gdp-22": 3245.974,
-    "gdp-22-23": 321.578,
-    "now-pc": 2497.188,
-    "gdp-pc-22": 2296.813,
-    "gdp-pc-22-23": 200.375,
-    "nowPPP": 14619.782,
-    "gdpPPP-22": 13219.594,
-    "gdpPPP-22-23": 1400.188,
-    "nowPPP-pc": 10233.445,
-    "gdpPPP-pc-22": 9355.182,
-    "gdpPPP-pc-22-23": 878.263
 },{
     "region": "america",
     "code": "us",
@@ -1102,23 +1118,7 @@
     "nowPPP-pc": 24849.107,
     "gdpPPP-pc-22": 22334.848,
     "gdpPPP-pc-22-23": 2514.259
-}, {
-    "region": "europe",
-    "code": "de",
-    "country": "Germany",
-    "now": 4527.009,
-    "gdp-22": 4343.986,
-    "gdp-22-23": 183.023,
-    "now-pc": 53565.041,
-    "gdp-pc-22": 51608.737,
-    "gdp-pc-22-23": 1956.304,
-    "nowPPP": 5876.407,
-    "gdpPPP-22": 5735.592,
-    "gdpPPP-22-23": 140.815,
-    "nowPPP-pc": 69531.553,
-    "gdpPPP-pc-22": 68132.749,
-    "gdpPPP-pc-22-23": 1398.804
-}, {
+},{
     "region": "africa",
     "code": "gh",
     "country": "Ghana",
